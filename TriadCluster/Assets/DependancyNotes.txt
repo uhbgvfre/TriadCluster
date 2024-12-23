@@ -1,0 +1,7 @@
+DependencyNotes
+ - com.unity.nuget.newtonsoft-json
+ - UniTask
+ - Cysharp.MessagePipe
+ - Burst
+ - Collections
+ - Mathematics
