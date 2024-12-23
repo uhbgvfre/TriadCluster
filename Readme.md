@@ -146,4 +146,4 @@ For my simple test, search 3 triangle unit presets in 273 points is over 200FPS.
  - AMD Ryzen7 5700X 8 Core
  - NVIDIA RTX3060
   
-![Search3TriangleUnitsIn273Points](.\Presskit\Media\TriadCluster_PerformanceTest_Search3TriangleUnitsIn273Points.png)
+![Search3TriangleUnitsIn273Points](https://github.com/uhbgvfre/TriadCluster/blob/main/Presskit/Media/TriadCluster_PerformanceTest_Search3TriangleUnitsIn273Points.png)
